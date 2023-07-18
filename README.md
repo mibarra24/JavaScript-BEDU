@@ -7,3 +7,4 @@ Contenido del segundo modulo de Fullstack Developer Javascript en BEDU
 | Sesion-02 | 4 de Julio | [Controles de flujo](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-02) |
 | Sesion-03 | 6 de Julio | [Objetos y arreglos](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-03) |
 | Sesion-04 | 11 de Julio | [Funciones](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-04) |
+| Sesion-05 | 13 de Julio | [Scope y this](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-05) |
