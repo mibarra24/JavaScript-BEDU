@@ -17,7 +17,7 @@ const Person = function(name, birthYear, job){
     console.log(john.calculateAge())
     console.log(jane.calculateAge())
 
-    //Ejemplo 2: Herencia
+//Ejemplo 2: Herencia
 
     const Medico = function(name, birthYear, job) {
         Person.call(name, birthYear, job)
@@ -40,8 +40,6 @@ const Person = function(name, birthYear, job){
     juan.habla()
     maria.habla()
 
-    // Ejemplo 3: Heredando metodos
+ // Ejemplo 3: Heredando metodos
 
-    const Triangulo = function(base, altura){
-        
-    }
+   
