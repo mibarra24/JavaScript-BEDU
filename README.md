@@ -10,3 +10,4 @@ Contenido del segundo modulo de Fullstack Developer Javascript en BEDU
 | Sesion-05 | 13 de Julio | [Scope y this](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-05) |
 | Sesion-06 | 18 de Julio | [Programación Orientada a Objetos](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-06) |
 | Sesion-07 | 20 de Julio | [Programación funcional](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-07) |
+| Sesion-08 | 25 de Julio | [Webpack y Babel](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-08) |
