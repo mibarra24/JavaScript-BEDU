@@ -1,5 +1,5 @@
+import {sum, multiply} from "./helpers"
 
-const sum = (a,b) => a+b
-const multiply = (a,b) => a*b
-
-export { sum, multiply}
+console.log(sum(2,3))
+console.log(multiply(4,3))
+console.log("hola webpack")
