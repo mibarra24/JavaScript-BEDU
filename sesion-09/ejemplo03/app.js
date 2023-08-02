@@ -1,4 +1,4 @@
-function creaeNode(type,child) {
+function createNode(type, child){
     const node = document.createElement(type)
     const text = document.createTextNode(child)
 
@@ -7,9 +7,11 @@ function creaeNode(type,child) {
     return node
 }
 
-console.log(createNode("h1","Hello World"))
+console.log(createNode("h1", "Hello World"))
+//<h1> Hello World</h1>
 
-const autor = creaeNode("strong", "- Karl Popper")
+const autor = createNode("strong", "- Karl Popper")
+// <strong>- Karl Popper</strong>
 console.log(autor)
 
 const cita = document.getElementById("quote")

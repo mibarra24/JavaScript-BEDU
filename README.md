@@ -11,3 +11,5 @@ Contenido del segundo modulo de Fullstack Developer Javascript en BEDU
 | Sesion-06 | 18 de Julio | [Programación Orientada a Objetos](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-06) |
 | Sesion-07 | 20 de Julio | [Programación funcional](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-07) |
 | Sesion-08 | 25 de Julio | [Webpack y Babel](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-08) |
+| Sesion-09 | 27 de Julio | [Introducción al DOM](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-09) |
+| Sesion-10 | 1 de Agosto | [Manipulación del DOM](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-10) |
