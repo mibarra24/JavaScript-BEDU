@@ -42,4 +42,15 @@ const Person = function(name, birthYear, job){
 
  // Ejemplo 3: Heredando metodos
 
-   
+ Person.prototype.calculateAge = function() {
+    const today = new Date();
+    const year = today.getFullYear();
+  
+    console.log( year - this.birthYear );
+  }
+
+const rick = new Person('Rick', 1990, 'Developer');
+
+const mark = new Person('Mark', 1985, 'Teacher');
+
+const lance = new Person('Lance', 1975, 'Designer');
