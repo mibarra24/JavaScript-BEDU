@@ -14,3 +14,4 @@ Contenido del segundo modulo de Fullstack Developer Javascript en BEDU
 | Sesion-09 | 27 de Julio | [Introducción al DOM](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-09) |
 | Sesion-10 | 1 de Agosto | [Manipulación del DOM](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-10) |
 | Sesion-11 | 3 de Agosto | [Programación Asíncrona](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-11) |
+| Sesion-12 | 8 de Agosto | [API](https://github.com/mibarra24/JavaScript-BEDU/tree/main/sesion-12) |
